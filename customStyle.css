@@ -1,0 +1,13 @@
+
+div{
+    padding: 10px;
+}
+
+
+ .customDiv{
+     margin: 3px;
+     min-height: 300px;
+     background-color:#61E1FC;
+     text-align: center;
+     font-size: large;
+ }
